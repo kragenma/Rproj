@@ -1,3 +1,4 @@
+#For practicing coding for RNA_seq analysis
 install.packages("rlang")
 install.packages("vctrs")
 install.packages("Seurat")
